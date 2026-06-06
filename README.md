@@ -3,7 +3,7 @@
 A clean and interactive finance dashboard built for the Zorvyn Frontend Developer Intern assignment.
 
 ## Live Demo
-[View Live →](https://finance-dashboard95132.netlify.app/)
+[View Live →] (https://finance-dashboard95132.netlify.app/)
 
 ## Overview
 
